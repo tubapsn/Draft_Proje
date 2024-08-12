@@ -1,0 +1,18 @@
+<mvc:View
+    xmlns:core="sap.ui.core"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:mc="sap.suite.ui.microchart"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:grid="sap.ui.layout.cssgrid"
+    height="100%" controllerName="REPORT.controller.Main">
+    <App id="idMainApp">
+        <pages>
+            <Page title="{i18n>title}" showHeader="false">
+                <content>
+                    
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>
